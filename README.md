@@ -45,8 +45,9 @@ Demo: https://github-user-search-project.herokuapp.com/
 
 1. Clone the repository
 2. Install dependences `npm install`
-3. Run the server `npm run start`
-4. Visit `http://localhost:3001/` (note the trailing slash)
+3. [Optional] export USER_SEARCH_OAUTH token (See below)
+4. Run the server `npm run start`
+5. Visit `http://localhost:3001/` (note the trailing slash)
 
 ### API limit (Optional)
 
