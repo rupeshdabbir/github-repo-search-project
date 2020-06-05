@@ -14,6 +14,7 @@ Demo: https://github-user-search-project.herokuapp.com/
 
 - React 16
 - React Hooks
+- CI/CD on Heroku.
 - Rate Limiter (for making sure we don't exceed the limit) (Stats displayed at footer)
 - [Performance] Caching keywords, responses from API call.
 - React Router for routing requests.
