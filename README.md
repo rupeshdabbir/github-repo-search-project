@@ -8,7 +8,7 @@ Performance(Caching): Requests are cached in session storage to limit the use of
 
 A take home project built with React v16.x with Hooks and Redux / Saga for state management.
 
-Demo:
+Demo: https://github-user-search-project.herokuapp.com/
 
 ## Features:
 
