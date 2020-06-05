@@ -1,0 +1,20 @@
+{
+  "presets": [
+    "react",
+    ["env", {
+      "targets": {
+        "browsers": ["last 2 versions"]
+      },
+      "exclude": ["transform-regenerator"]
+    }]
+  ],
+  "plugins": [
+    "flow-react-proptypes",
+    "transform-flow-strip-types",
+    "transform-object-rest-spread",
+    "transform-class-properties",
+    ["module-resolver", {
+      "root": ["./src/**", "./src/store/**"]
+    }]
+   ]
+}

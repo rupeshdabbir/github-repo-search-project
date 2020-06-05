@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component: SearchForm should render as expected 1`] = `
+<form
+  className="SearchForm_e296pg"
+  onSubmit={[Function]}
+>
+  <label
+    className="u-hiddenVisually"
+    htmlFor="searchInput"
+  >
+    Search for a repo
+  </label>
+  <input
+    className="SearchForm_input_12zt507"
+    id="searchInput"
+    onChange={[Function]}
+    placeholder="Search for a repo"
+    type="text"
+    value=""
+  />
+  <div
+    className="Dropdown-root"
+  >
+    <div
+      aria-haspopup="listbox"
+      className="Dropdown-control"
+      onMouseDown={[Function]}
+      onTouchEnd={[Function]}
+    >
+      <div
+        className="Dropdown-placeholder is-selected"
+      >
+        JavaScript
+      </div>
+      <div
+        className="Dropdown-arrow-wrapper"
+      >
+        <span
+          className="Dropdown-arrow"
+        />
+      </div>
+    </div>
+  </div>
+  <button
+    className="SearchForm_btn_13vgzd5"
+    type="submit"
+  >
+    <svg />
+    <span
+      className="u-hiddenVisually"
+    >
+      Submit
+    </span>
+  </button>
+</form>
+`;
