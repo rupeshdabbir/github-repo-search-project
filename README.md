@@ -12,9 +12,9 @@ Demo: https://github-user-search-project.herokuapp.com/
 
 ## Features:
 
-- React 16.x
+- React 16
 - React Hooks
-- Rate Limiter (for making sure we don't exceed the limit)
+- Rate Limiter (for making sure we don't exceed the limit) (Stats displayed at footer)
 - [Performance] Caching keywords, responses from API call.
 - React Router for routing requests.
 - Redux / Saga for state management.
@@ -44,9 +44,9 @@ Demo: https://github-user-search-project.herokuapp.com/
 ## Running locally
 
 1. Clone the repository
-1. Install dependences `npm install`
-1. Run the server `yarnpkg run start`
-1. Visit `http://localhost:3001/` (note the trailing slash)
+2. Install dependences `npm install`
+3. Run the server `npm run start`
+4. Visit `http://localhost:3001/` (note the trailing slash)
 
 ### API limit (Optional)
 
